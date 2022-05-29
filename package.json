@@ -15,11 +15,14 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^4.15.0",
-    "gatsby-plugin-image": "^2.15.0",
-    "gatsby-plugin-sharp": "^4.15.0",
+    "gatsby": "4.15.1",
+    "gatsby-plugin-image": "^0.7.2",
+    "gatsby-plugin-sharp": "^2.14.4",
     "gatsby-source-filesystem": "^4.15.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "imagemin-pngquant": "^9.0.2"
   }
 }
