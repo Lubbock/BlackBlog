@@ -3,5 +3,8 @@ module.exports = {
     title: `Bb`,
     siteUrl: `https://blackblog.gtsb.io/`,
   },
-  plugins: [],
+  plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
+  ],
 }
