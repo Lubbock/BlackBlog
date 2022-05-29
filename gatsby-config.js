@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Bb`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://blackblog.gtsb.io/`,
   },
   plugins: [],
 }
